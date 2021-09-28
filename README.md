@@ -31,3 +31,4 @@ git clone https://github.com/datasciosu/Basic-R.git
 
 Notes :
 - You can execute commands in R studio by ctrl+enter or clicking *run* in the top right hand corner at whatever line you are on. 
+- When you exit R-studio it will ask if you want to save your workspace **don't** do this.
